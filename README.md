@@ -1,0 +1,2 @@
+# logger
+Common logging configuration
