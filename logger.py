@@ -1,6 +1,8 @@
 import logging
 
 
+FILENAME = 'log.log'
+
 # Create a logger instance
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.DEBUG)
